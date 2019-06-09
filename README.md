@@ -1,1 +1,5 @@
-# Rron_Prokupla_p2
+# Projekti Packet tracer
+Pjestaret e grupit :
+Rron Prokupla
+Shpend Jahiri 
+Endrit Mehmeti
